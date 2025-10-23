@@ -19,3 +19,4 @@ D:\Bha\GrpcClient\obj\Debug\net8.0\refint\GrpcClient.dll
 D:\Bha\GrpcClient\obj\Debug\net8.0\GrpcClient.pdb
 D:\Bha\GrpcClient\obj\Debug\net8.0\GrpcClient.genruntimeconfig.cache
 D:\Bha\GrpcClient\obj\Debug\net8.0\ref\GrpcClient.dll
+D:\Bha\GrpcClient\obj\Debug\net8.0\GrpcClient.sourcelink.json
